@@ -8,6 +8,9 @@ I'm Hüseyin, I am working to be a quality Java Developer and I am improving mys
 <a href="https://www.instagram.com/huseyin__gurel/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-huseyin__gurel-black?style=flat-square&logo=instagram"></a>
 </p>
 
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/2621/2621217.png" alt="coder" height="100" width="100" /></a>
+
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" width="50" height="55"/> </a>  
