@@ -1,4 +1,11 @@
-### Hi, Welcome To My Github Profile 👋 👋 👋
+<h1 align="center">Hüseyin Gürel</h1>
+<h3 align="center">FullStack JavaDeveloper
+<br>
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/4667/4667930.png" alt="coder" height="100" width="100" /></a>
+<br>
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/2621/2621217.png" alt="coder" height="100" width="100" /></a>
+
+</h3>
 
 I'm Hüseyin, I am working to be a quality Java Developer and I am improving myself in this field. I am sharing my projects here.
 <h3 align="center">Connect with me:</h3>
@@ -11,8 +18,6 @@ I'm Hüseyin, I am working to be a quality Java Developer and I am improving mys
 
 
 <h3 align="center">Languages and Tools:</h3>
-
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/2621/2621217.png" alt="coder" height="100" width="100" /></a>
 
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" width="50" height="55"/> </a>  
