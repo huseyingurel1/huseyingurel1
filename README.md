@@ -12,4 +12,4 @@ I'm Hüseyin, I am working to be a quality Java Developer and I am improving mys
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-[1]: https://www.futag.net/
+[0]: https://www.futag.net/
