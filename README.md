@@ -11,7 +11,6 @@ I'm Hüseyin, I am working to be a quality Software Developer and I am improving
 
 <p align="center"><a href="mailto:huseyingurel27@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-huseyingurel27@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/huseyingurel1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@huseyingurel1-blue?style=flat&logo=linkedin"></a>
-<a href="https://www.instagram.com/huseyin__gurel/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-huseyin__gurel-black?style=flat-square&logo=instagram"></a>
 </p>
 
 
