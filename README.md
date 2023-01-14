@@ -1,12 +1,12 @@
 <h1 align="center">Hüseyin Gürel</h1>
-<h3 align="center">Full Stack Java Developer
+<h3 align="center">Software Developer
 <br>
 <br>
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/2621/2621217.png" alt="coder" height="100" width="100" /></a>
 
 </h3>
 
-I'm Hüseyin, I am working to be a quality Java Developer and I am improving myself in this field. I am sharing my projects here.
+I'm Hüseyin, I am working to be a quality Software Developer and I am improving myself in this field. I am sharing my projects here.
 <h3 align="center">Connect with me:</h3>
 
 <p align="center"><a href="mailto:huseyingurel27@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-huseyingurel27@gmail.com-blue?style=flat&logo=gmail"></a>
